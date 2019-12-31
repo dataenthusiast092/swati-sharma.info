@@ -12,9 +12,6 @@ h1{
 
 .outer{
 	background-image: url("images/3in1.jpg");
-}
-
-img{
 	opacity: 0.5;
   	filter: alpha(opacity=50);
 }
