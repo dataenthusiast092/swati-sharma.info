@@ -1,0 +1,20 @@
+h1{
+	font-family: 'Andale Mono', monospace;
+	font-size: 40px;
+	color: navy;
+}
+
+.inner{
+	margin: 0 auto;
+	width: 700px;
+	border: 1px solid black;
+}
+
+.outer{
+	background-image: url("images/3in1.jpg");
+}
+
+img{
+	opacity: 0.5;
+  	filter: alpha(opacity=50);
+}
