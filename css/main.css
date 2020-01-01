@@ -4,14 +4,8 @@ h1{
 	color: navy;
 }
 
-.inner{
+div{
 	margin: 0 auto;
 	width: 700px;
-	border: 1px solid black;
 }
 
-.outer{
-	background-image: url("images/3in1.jpg");
-	opacity: 0.5;
-  	filter: alpha(opacity=50);
-}
