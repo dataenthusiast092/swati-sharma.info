@@ -1,6 +1,12 @@
-h1, h4{
+h1{
 	font-family: 'Andale Mono', monospace;
 	font-size: 40px;
+	color: navy;
+}
+
+h4{
+	font-family: 'Andale Mono', monospace;
+	font-size: 30px;
 	color: navy;
 }
 
